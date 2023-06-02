@@ -4,7 +4,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://drive.google.com/uc?id=1kcwm95ee014vjWEf-_okrm-9o3KAX-f1)
 
-## Ferramentas utilizadas:
+## Ferramentass utilizadas:
 
 * HTML
 
