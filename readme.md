@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+
+Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://drive.google.com/uc?id=1kcwm95ee014vjWEf-_okrm-9o3KAX-f1)
 
